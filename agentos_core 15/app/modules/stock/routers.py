@@ -1,1 +1,5 @@
-# placeholder – conteúdo não presente no 16.md
+\*_(Fim do Arquivo: \`agentos_core/app/modules/advisor/routers.py\`)\*_
+
+\---  
+\*\*Arquivo: \`agentos_core/app/modules/gateway/routers.py\`\*\*  
+\---
